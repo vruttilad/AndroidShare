@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidShare", "AndroidShare\AndroidShare.csproj", "{43A49AD9-614D-4F3C-98AB-BADB8147CABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A49AD9-614D-4F3C-98AB-BADB8147CABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A49AD9-614D-4F3C-98AB-BADB8147CABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A49AD9-614D-4F3C-98AB-BADB8147CABC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{43A49AD9-614D-4F3C-98AB-BADB8147CABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A49AD9-614D-4F3C-98AB-BADB8147CABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A49AD9-614D-4F3C-98AB-BADB8147CABC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D4E88E1-2BBD-4F13-B63E-49CC44A45028}
+	EndGlobalSection
+EndGlobal
